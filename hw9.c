@@ -6,7 +6,7 @@ double mvallgather(const double *x, const double *mat, double *y,
 		   int gn, int ln, int sr, int er, double *tcomm);
 double mvring(const double *x, const double *mat, double *y,
 	      int gn, int ln, int sr, int er, double *tcomm);
-void mvmult(const double *restrict x, const double *restrict mat,
+void mvmult(const double  x, const double  mat,
 	    double * restrict y, int rows, int cols, int colsdim);
 void initVars(double *x, double *y, double *mat, int ln, int gn, int sr);
 void printVec(double *y, int ln);
@@ -142,8 +142,8 @@ double mvring(const double *x, const double *mat, double *y,
 /* Local Matrix-vector multiply.
    Matrix stored by rows
 */
-void mvmult(const double *restrict x, const double *restrict mat,
-	    double *restrict y, int rows, int cols, int colsdim)
+void mvmult(const double  x, const double  mat,
+	    double  y, int rows, int cols, int colsdim)
 {
     int i, j;
     register double sum;
