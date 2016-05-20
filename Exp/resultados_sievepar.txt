@@ -1,0 +1,330 @@
+200000 0.006896 232.017923  
+400000 0.015519 206.196964  
+600000 0.024591 195.193609  
+800000 0.035422 180.678232  
+1000000 0.045748 174.871050  
+1200000 0.055835 171.935140  
+1500000 0.073714 162.791816  
+2000000 0.103784 154.166574  
+2500000 0.139680 143.184515  
+3000000 0.173876 138.029363  
+3500000 0.206147 135.825435  
+4000000 0.238911 133.941140  
+4500000 0.275156 130.834862  
+5000000 0.309567 129.212650  
+5500000 0.331701 132.649569  
+6000000 0.369829 129.789735  
+6500000 0.403119 128.994140  
+7000000 0.437423 128.022535  
+7500000 0.468376 128.102165  
+8000000 0.501158 127.704237  
+8500000 0.540054 125.913371  
+9000000 0.558366 128.947666  
+9500000 0.605107 125.597607  
+10000000 0.625830 127.830206  
+11000000 0.701777 125.395962  
+12000000 0.771329 124.460521  
+13000000 0.827403 125.694518  
+14000000 0.903829 123.917265  
+50000000 3.978549 100.539166  
+100000000 7.117404 112.400533  
+200000 0.006937 230.646357  
+400000 0.014927 214.377920  
+600000 0.024171 198.584145  
+800000 0.034581 185.071741  
+1000000 0.043922 182.141286  
+1200000 0.055801 172.039455  
+1500000 0.071686 167.396634  
+2000000 0.105605 151.508140  
+2500000 0.138941 143.945940  
+3000000 0.171337 140.074719  
+3500000 0.205811 136.047292  
+4000000 0.238126 134.382615  
+4500000 0.273332 131.708017  
+5000000 0.304267 131.463515  
+5500000 0.338595 129.948792  
+6000000 0.372019 129.025650  
+6500000 0.397326 130.874901  
+7000000 0.433800 129.091753  
+7500000 0.468677 128.019925  
+8000000 0.501261 127.677997  
+8500000 0.532025 127.813519  
+9000000 0.556902 129.286677  
+9500000 0.595342 127.657733  
+10000000 0.625446 127.908756  
+11000000 0.700413 125.640160  
+12000000 0.771834 124.379055  
+13000000 0.835707 124.445501  
+14000000 0.907132 123.466024  
+50000000 3.392963 117.891053  
+100000000 7.147457 111.927919  
+200000 0.007359 217.420022  
+400000 0.015065 212.413515  
+600000 0.024889 192.856341  
+800000 0.034447 185.792911  
+1000000 0.045354 176.390605  
+1200000 0.057206 167.814114  
+1500000 0.073623 162.992144  
+2000000 0.105987 150.961808  
+2500000 0.138832 144.058911  
+3000000 0.173865 138.038070  
+3500000 0.206568 135.548583  
+4000000 0.239881 133.399456  
+4500000 0.272392 132.162455  
+5000000 0.306118 130.668663  
+5500000 0.338232 130.088300  
+6000000 0.372962 128.699439  
+6500000 0.407956 127.464763  
+7000000 0.436280 128.357932  
+7500000 0.469264 127.859789  
+8000000 0.497531 128.635155  
+8500000 0.530773 128.114993  
+9000000 0.568750 126.593428  
+9500000 0.602105 126.223852  
+10000000 0.634573 126.069029  
+11000000 0.703256 125.132261  
+12000000 0.764146 125.630428  
+13000000 0.838997 123.957552  
+14000000 0.903528 123.958530  
+50000000 3.392721 117.899470  
+100000000 7.117647 112.396696  
+200000 0.007029 227.626565  
+400000 0.015213 210.346239  
+600000 0.024482 196.062319  
+800000 0.034030 188.069568  
+1000000 0.044134 181.266548  
+1200000 0.056382 170.267285  
+1500000 0.072371 165.812259  
+2000000 0.105078 152.267865  
+2500000 0.140122 142.732826  
+3000000 0.171538 139.910791  
+3500000 0.206643 135.499319  
+4000000 0.233711 136.921238  
+4500000 0.270582 133.046446  
+5000000 0.301207 132.799115  
+5500000 0.334576 131.509774  
+6000000 0.370898 129.415632  
+6500000 0.404009 128.709971  
+7000000 0.423825 132.129999  
+7500000 0.472211 127.061810  
+8000000 0.502633 127.329459  
+8500000 0.535643 126.950202  
+9000000 0.567628 126.843658  
+9500000 0.599926 126.682292  
+10000000 0.626606 127.671937  
+11000000 0.703508 125.087437  
+12000000 0.772324 124.300189  
+13000000 0.834925 124.562096  
+14000000 0.891132 125.682823  
+50000000 3.423150 116.851436  
+100000000 7.183858 111.360777  
+200000 0.006911 231.513658  
+400000 0.014587 219.374535  
+600000 0.025430 188.753708  
+800000 0.035657 179.488256  
+1000000 0.043284 184.826061  
+1200000 0.056969 168.512209  
+1500000 0.074442 161.199002  
+2000000 0.104727 152.778132  
+2500000 0.139502 143.367070  
+3000000 0.174960 137.174291  
+3500000 0.202303 138.406298  
+4000000 0.283000 113.074208  
+4500000 0.268458 134.099244  
+5000000 0.296397 134.954146  
+5500000 0.332421 132.362250  
+6000000 0.364215 131.790240  
+6500000 0.405054 128.377991  
+7000000 0.429668 130.333203  
+7500000 0.470387 127.554550  
+8000000 0.498608 128.357318  
+8500000 0.541268 125.630956  
+9000000 0.568479 126.653795  
+9500000 0.596816 127.342468  
+10000000 0.635289 125.926949  
+11000000 0.700790 125.572581  
+12000000 0.769556 124.747249  
+13000000 0.832424 124.936342  
+14000000 0.895938 125.008628  
+50000000 3.376529 118.464850  
+100000000 7.172147 111.542610  
+In 0.001530 seconds we found 17984 primes less than or equal to 200000.
+Application 38837272 resources: utime ~1s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.002282 seconds we found 33860 primes less than or equal to 400000.
+Application 38837273 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.002978 seconds we found 49098 primes less than or equal to 600000.
+Application 38837274 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.003726 seconds we found 63951 primes less than or equal to 800000.
+Application 38837275 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.004471 seconds we found 78498 primes less than or equal to 1000000.
+Application 38837276 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.005232 seconds we found 92938 primes less than or equal to 1200000.
+Application 38837277 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.006384 seconds we found 114155 primes less than or equal to 1500000.
+Application 38837279 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.008331 seconds we found 148933 primes less than or equal to 2000000.
+Application 38837280 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.010267 seconds we found 183072 primes less than or equal to 2500000.
+Application 38837281 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.012880 seconds we found 216816 primes less than or equal to 3000000.
+Application 38837282 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.015453 seconds we found 250150 primes less than or equal to 3500000.
+Application 38837284 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.017759 seconds we found 283146 primes less than or equal to 4000000.
+Application 38837285 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.020595 seconds we found 315948 primes less than or equal to 4500000.
+Application 38837286 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.024022 seconds we found 348513 primes less than or equal to 5000000.
+Application 38837288 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.026512 seconds we found 380800 primes less than or equal to 5500000.
+Application 38837289 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.029393 seconds we found 412849 primes less than or equal to 6000000.
+Application 38837291 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.032416 seconds we found 444757 primes less than or equal to 6500000.
+Application 38837292 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.035277 seconds we found 476648 primes less than or equal to 7000000.
+Application 38837293 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.038364 seconds we found 508261 primes less than or equal to 7500000.
+Application 38837294 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.041337 seconds we found 539777 primes less than or equal to 8000000.
+Application 38837296 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.044661 seconds we found 571119 primes less than or equal to 8500000.
+Application 38837297 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.048546 seconds we found 602489 primes less than or equal to 9000000.
+Application 38837298 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.052529 seconds we found 633578 primes less than or equal to 9500000.
+Application 38837300 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14281, outblocks ~35005
+In 0.055820 seconds we found 664579 primes less than or equal to 10000000.
+Application 38837301 resources: utime ~0s, stime ~2s, Rss ~21584, inblocks ~14285, outblocks ~35005
+In 0.062462 seconds we found 726517 primes less than or equal to 11000000.
+Application 38837302 resources: utime ~0s, stime ~2s, Rss ~21684, inblocks ~14281, outblocks ~35005
+In 0.068900 seconds we found 788060 primes less than or equal to 12000000.
+Application 38837303 resources: utime ~0s, stime ~2s, Rss ~22172, inblocks ~14285, outblocks ~35005
+In 0.075663 seconds we found 849252 primes less than or equal to 13000000.
+Application 38837304 resources: utime ~0s, stime ~2s, Rss ~22660, inblocks ~14281, outblocks ~35005
+In 0.083225 seconds we found 910077 primes less than or equal to 14000000.
+Application 38837305 resources: utime ~1s, stime ~2s, Rss ~23148, inblocks ~14285, outblocks ~35005
+In 0.414913 seconds we found 3001134 primes less than or equal to 50000000.
+Application 38837306 resources: utime ~2s, stime ~2s, Rss ~40744, inblocks ~14281, outblocks ~35005
+In 0.895932 seconds we found 5761455 primes less than or equal to 100000000.
+Application 38837307 resources: utime ~2s, stime ~2s, Rss ~65156, inblocks ~14285, outblocks ~35005
+In 0.000630 seconds we found 17984 primes less than or equal to 200000.
+Application 38837308 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.001034 seconds we found 33860 primes less than or equal to 400000.
+Application 38837309 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.001452 seconds we found 49098 primes less than or equal to 600000.
+Application 38837310 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.001843 seconds we found 63951 primes less than or equal to 800000.
+Application 38837311 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.002206 seconds we found 78498 primes less than or equal to 1000000.
+Application 38837312 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.002618 seconds we found 92938 primes less than or equal to 1200000.
+Application 38837313 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.003163 seconds we found 114155 primes less than or equal to 1500000.
+Application 38837314 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.004855 seconds we found 148933 primes less than or equal to 2000000.
+Application 38837315 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.005878 seconds we found 183072 primes less than or equal to 2500000.
+Application 38837316 resources: utime ~4s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.006871 seconds we found 216816 primes less than or equal to 3000000.
+Application 38837317 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.007858 seconds we found 250150 primes less than or equal to 3500000.
+Application 38837318 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.008895 seconds we found 283146 primes less than or equal to 4000000.
+Application 38837319 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.009917 seconds we found 315948 primes less than or equal to 4500000.
+Application 38837320 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.010967 seconds we found 348513 primes less than or equal to 5000000.
+Application 38837321 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.011944 seconds we found 380800 primes less than or equal to 5500000.
+Application 38837322 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.013485 seconds we found 412849 primes less than or equal to 6000000.
+Application 38837323 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.014877 seconds we found 444757 primes less than or equal to 6500000.
+Application 38837324 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.015858 seconds we found 476648 primes less than or equal to 7000000.
+Application 38837325 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.017506 seconds we found 508261 primes less than or equal to 7500000.
+Application 38837326 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.018786 seconds we found 539777 primes less than or equal to 8000000.
+Application 38837327 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.020379 seconds we found 571119 primes less than or equal to 8500000.
+Application 38837328 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.022113 seconds we found 602489 primes less than or equal to 9000000.
+Application 38837329 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.023309 seconds we found 633578 primes less than or equal to 9500000.
+Application 38837330 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.024536 seconds we found 664579 primes less than or equal to 10000000.
+Application 38837331 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.027631 seconds we found 726517 primes less than or equal to 11000000.
+Application 38837332 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.030672 seconds we found 788060 primes less than or equal to 12000000.
+Application 38837333 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.033786 seconds we found 849252 primes less than or equal to 13000000.
+Application 38837334 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28609, outblocks ~70009
+In 0.036919 seconds we found 910077 primes less than or equal to 14000000.
+Application 38837335 resources: utime ~0s, stime ~4s, Rss ~21584, inblocks ~28621, outblocks ~70009
+In 0.193824 seconds we found 3001134 primes less than or equal to 50000000.
+Application 38837336 resources: utime ~0s, stime ~4s, Rss ~28496, inblocks ~28609, outblocks ~70009
+In 0.440483 seconds we found 5761455 primes less than or equal to 100000000.
+Application 38837337 resources: utime ~4s, stime ~4s, Rss ~40716, inblocks ~28621, outblocks ~70009
+In 0.000592 seconds we found 17984 primes less than or equal to 200000.
+Application 38837338 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.000913 seconds we found 33860 primes less than or equal to 400000.
+Application 38837339 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.001210 seconds we found 49098 primes less than or equal to 600000.
+Application 38837340 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.001495 seconds we found 63951 primes less than or equal to 800000.
+Application 38837341 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.002478 seconds we found 78498 primes less than or equal to 1000000.
+Application 38837342 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.002765 seconds we found 92938 primes less than or equal to 1200000.
+Application 38837343 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.003216 seconds we found 114155 primes less than or equal to 1500000.
+Application 38837344 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.003890 seconds we found 148933 primes less than or equal to 2000000.
+Application 38837345 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.004614 seconds we found 183072 primes less than or equal to 2500000.
+Application 38837347 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.005302 seconds we found 216816 primes less than or equal to 3000000.
+Application 38837348 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.005984 seconds we found 250150 primes less than or equal to 3500000.
+Application 38837349 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.007131 seconds we found 283146 primes less than or equal to 4000000.
+Application 38837351 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.007783 seconds we found 315948 primes less than or equal to 4500000.
+Application 38837352 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.009054 seconds we found 348513 primes less than or equal to 5000000.
+Application 38837353 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.009709 seconds we found 380800 primes less than or equal to 5500000.
+Application 38837356 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.010479 seconds we found 412849 primes less than or equal to 6000000.
+Application 38837357 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.011065 seconds we found 444757 primes less than or equal to 6500000.
+Application 38837358 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.011666 seconds we found 476648 primes less than or equal to 7000000.
+Application 38837362 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.012665 seconds we found 508261 primes less than or equal to 7500000.
+Application 38837365 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.013645 seconds we found 539777 primes less than or equal to 8000000.
+Application 38837366 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.014329 seconds we found 571119 primes less than or equal to 8500000.
+Application 38837368 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.014818 seconds we found 602489 primes less than or equal to 9000000.
+Application 38837369 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.015620 seconds we found 633578 primes less than or equal to 9500000.
+Application 38837370 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.016882 seconds we found 664579 primes less than or equal to 10000000.
+Application 38837371 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.017452 seconds we found 726517 primes less than or equal to 11000000.
+Application 38837372 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.020553 seconds we found 788060 primes less than or equal to 12000000.
+Application 38837373 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.022063 seconds we found 849252 primes less than or equal to 13000000.
+Application 38837376 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42937, outblocks ~105013
+In 0.024486 seconds we found 910077 primes less than or equal to 14000000.
+Application 38837377 resources: utime ~0s, stime ~6s, Rss ~21584, inblocks ~42957, outblocks ~105013
+In 0.118143 seconds we found 3001134 primes less than or equal to 50000000.
+Application 38837378 resources: utime ~0s, stime ~6s, Rss ~24740, inblocks ~42937, outblocks ~105013
+In 0.285666 seconds we found 5761455 primes less than or equal to 100000000.
+Application 38837381 resources: utime ~5s, stime ~6s, Rss ~32880, inblocks ~42957, outblocks ~105013
